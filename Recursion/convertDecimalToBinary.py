@@ -9,7 +9,7 @@ def convert_decimal_to_binary(decimal):
         # 5 / 2 --> quotient = 2; remainder = 1
         # 2 / 2 --> quotient = 1; remainder = 0
 
-        # 14 ---> 1101
+        # 14 ---> 1110
         # 14 / 2 --> quotient = 7; remainder = 0
         # 7 / 2 --> quotient = 3; remainder = 1
         # 3 / 2 --> quotient = 1; remainder 1
